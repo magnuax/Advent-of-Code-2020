@@ -15,3 +15,5 @@ for i in entries:
             if sum==2020:
                 print(f"{i}+{j}+{k}={i+j+k}")
                 print(f"{i}*{j}*{k}={i*j*k}")
+
+"test"
